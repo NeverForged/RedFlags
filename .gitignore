@@ -2,3 +2,4 @@
 # data too big for git
 *.csv
 Data/*
+*.env
