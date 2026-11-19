@@ -1,3 +1,4 @@
 # Ignore all .csv files
 # data too big for git
 *.csv
+Data/*
